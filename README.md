@@ -24,5 +24,60 @@ Projeto full stack completo! Java Spring Boot no back end e Ionic no front end. 
     alt="Página Oficial do Spring" />
 </a>
 <a></a>
-
+<a href="https://ionicframework.com/">
+  <img
+    src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg"
+    width="40" 
+    height="40"
+    alt="Página Oficial do Ionic" />
+</a>
+<a></a>
+<a href="https://www.mysql.com/">
+  <img
+    src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"
+    width="40" 
+    height="40"
+    alt="Página Oficial do MySQL" />
+</a>
+<a></a>
+<a href="https://www.mongodb.com/pt-br">
+  <img
+    src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"
+    width="40" 
+    height="40"
+    alt="Página Oficial do MongoDB" />
+</a>
+<a></a>
+<a href="https://hibernate.org/">
+  <img
+    src="https://cdn.worldvectorlogo.com/logos/hibernate.svg"
+    width="40" 
+    height="40"
+    alt="Página Oficial do Hibernate" />
+</a>
+<a></a>
+<a href="https://jwt.io/">
+  <img
+    src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg"
+    width="40" 
+    height="40"
+    alt="Página Oficial do JWT" />
+</a>
+<a></a>
+<a href="https://aws.amazon.com/pt/s3/">
+  <img
+    src="https://brandslogos.com/wp-content/uploads/images/aws-s3-logo.png"
+    width="40" 
+    height="40"
+    alt="Página Oficial da Amazon S3" />
+</a>
+<a></a>
+<a href="https://www.heroku.com/">
+  <img
+    src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg"
+    width="40" 
+    height="40"
+    alt="Página Oficial do Heroku" />
+</a>
+<a></a>
  
