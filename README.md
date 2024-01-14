@@ -7,13 +7,6 @@ Projeto full stack completo! Java Spring Boot no back end e Ionic no front end. 
  
 # Ferramentas utilizas no desenvolvimento desta aplicação
 
-<a href="https://angular.io">
-  <img
-    src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"
-    width="40" 
-    height="40"
-    alt="Página Oficial do Angular" />
-</a>
 <a></a>
 <a href="https://openjdk.org/">
   <img
@@ -31,11 +24,5 @@ Projeto full stack completo! Java Spring Boot no back end e Ionic no front end. 
     alt="Página Oficial do Spring" />
 </a>
 <a></a>
-<a href="https://nodejs.org/en">
-  <img
-    src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg"
-    width="40" 
-    height="40"
-    alt="Página Oficial do NodeJS" />
-</a>
+
  
