@@ -8,12 +8,12 @@ Projeto full stack completo! Java Spring Boot no back end e Ionic no front end. 
 # Ferramentas utilizas no desenvolvimento desta aplicação
 
 <a></a>
-<a href="https://openjdk.org/">
+<a href="https://www.java.com/pt-BR/">
   <img
     src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"
     width="40" 
     height="50"
-    alt="Página Oficial do OpenJDK" />
+    alt="Página Oficial Java" />
 </a>
 <a></a>
 <a href="https://spring.io/">
@@ -29,7 +29,7 @@ Projeto full stack completo! Java Spring Boot no back end e Ionic no front end. 
     src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg"
     width="40" 
     height="40"
-    alt="Página Oficial do Ionic" />
+    alt="Página Oficial Ionic" />
 </a>
 <a></a>
 <a href="https://www.mysql.com/">
@@ -37,7 +37,7 @@ Projeto full stack completo! Java Spring Boot no back end e Ionic no front end. 
     src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"
     width="40" 
     height="40"
-    alt="Página Oficial do MySQL" />
+    alt="Página Oficial MySQL" />
 </a>
 <a></a>
 <a href="https://www.mongodb.com/pt-br">
@@ -45,7 +45,7 @@ Projeto full stack completo! Java Spring Boot no back end e Ionic no front end. 
     src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"
     width="40" 
     height="40"
-    alt="Página Oficial do MongoDB" />
+    alt="Página Oficial MongoDB" />
 </a>
 <a></a>
 <a href="https://hibernate.org/">
@@ -53,7 +53,7 @@ Projeto full stack completo! Java Spring Boot no back end e Ionic no front end. 
     src="https://cdn.worldvectorlogo.com/logos/hibernate.svg"
     width="40" 
     height="40"
-    alt="Página Oficial do Hibernate" />
+    alt="Página Oficial Hibernate" />
 </a>
 <a></a>
 <a href="https://jwt.io/">
@@ -61,7 +61,7 @@ Projeto full stack completo! Java Spring Boot no back end e Ionic no front end. 
     src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg"
     width="40" 
     height="40"
-    alt="Página Oficial do JWT" />
+    alt="Página Oficial JWT" />
 </a>
 <a></a>
 <a href="https://aws.amazon.com/pt/s3/">
@@ -69,7 +69,7 @@ Projeto full stack completo! Java Spring Boot no back end e Ionic no front end. 
     src="https://brandslogos.com/wp-content/uploads/images/aws-s3-logo.png"
     width="40" 
     height="40"
-    alt="Página Oficial da Amazon S3" />
+    alt="Página Oficial Amazon S3" />
 </a>
 <a></a>
 <a href="https://www.heroku.com/">
@@ -77,7 +77,7 @@ Projeto full stack completo! Java Spring Boot no back end e Ionic no front end. 
     src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg"
     width="40" 
     height="40"
-    alt="Página Oficial do Heroku" />
+    alt="Página Oficial Heroku" />
 </a>
 <a></a>
  
